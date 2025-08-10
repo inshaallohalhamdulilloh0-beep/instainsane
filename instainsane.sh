@@ -1,6 +1,6 @@
 #!/bin/bash
 #!/bin/bash
-#Instagram: @bhikan_deshmukh
+#Instagram: @master_one_insan
 #Creadit: github.com/thelinuxchoice
 
 trap 'store; exit 1;' 2
